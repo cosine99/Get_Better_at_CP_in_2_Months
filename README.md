@@ -1,7 +1,5 @@
 # Get_Better_CP_in_2_Months
 
-[![Join the chat at https://gitter.im/CompetitiveProgramming/community](https://badges.gitter.im/CompetitiveProgramming/community.svg)](https://gitter.im/CompetitiveProgramming/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 # Month 1
 
 ## Week 1
@@ -12,7 +10,7 @@
 - [x] Read [DP Tutorial involving grids](https://www.hackerearth.com/practice/notes/dynamic-programming-problems-involving-grids/)
 - [ ] Read [TopCoder Tutorial on DP](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
 - Solve the following classical problems:
-  - [ ] [Max 3D Range Sum](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=649&page=show_problem&problem=1696)
+  - [ ] [Max 1D Range Sum](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=649&page=show_problem&problem=1696)
   - [ ] [Max 2D Range Sum](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=650&page=show_problem&problem=3102)
   - [ ] [Longest Increasing Subsequence I](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=651&page=show_problem&problem=2890)
   - [ ] [Longest Increasing Subsequence II](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=651&page=show_problem&problem=2451)
@@ -22,8 +20,8 @@
   - [ ] [Coin Change II](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=653&page=show_problem&problem=2512)
 - Solve the following MISC problems:
 
-  - [ ] [Cutting](https://codeforces.com/problemset/problem/998/B)
-  - [ ] [The Great Julya Calendar](https://codeforces.com/problemset/problem/331/C1)
+  - [x] [Cutting](https://codeforces.com/problemset/problem/998/B)
+  - [x] [The Great Julya Calendar](https://codeforces.com/problemset/problem/331/C1)
   - [ ] [Shashlik Cooking](https://codeforces.com/problemset/problem/1040/B)
   - [ ] [Divisibility by Eight](https://codeforces.com/problemset/problem/550/C)
   - [ ] [Bishwock](https://codeforces.com/problemset/problem/991/D)
@@ -34,62 +32,8 @@
   - [ ] [How do you add?](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=655&page=show_problem&problem=1884)
   - [ ] [Prime XOR](https://www.hackerrank.com/challenges/prime-xor/problem)
   - [ ] [HackerRank City](https://www.hackerrank.com/challenges/hr-city/problem)
->>>>>>> HEAD
-This list will be updated frequently.
-=======
-- Try to solve as much tasks as possible in this [Educational DP contest on AtCoder](https://atcoder.jp/contests/dp)
-
-***
-
-## Week 2
-### String Algorithms
-1. #### Reading material
-- [ ] [Basics of String manipulation](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/tutorial/)
-- [ ] [KMP algorithm](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/tutorial/)
-- [ ] [Z algorithm](https://www.hackerearth.com/practice/algorithms/string-algorithm/z-algorithm/tutorial/)
-- [ ] [Manachar's algorithm](https://www.hackerearth.com/practice/algorithms/string-algorithm/manachars-algorithm/tutorial/)
-- [ ] [Rabin-Karp and KMP TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/introduction-to-string-searching-algorithms/)
-
-2. #### Problems on HackerEarth
-| ☆   | Problem Link                                                                                                                                                                              | Finished                  |
-|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| ★★☆ | [Find the substrings](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/find-the-substrings/)                    | <ul> <li> [ ] </li> </ul> |
-| ★★☆ | [The Cheapest Palindrome](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/make-the-cheapest-palindrome-1/)     | <ul> <li> [ ] </li> </ul> |
-| ★★☆ | [Largest Lexicographical Rotation II](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/largest-lexicographical-rotation-ii/) | <ul> <li> [ ] </li> </ul> |
-| ★★☆ | [Monk and Monster](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/monk-and-monster-1acbb78c/)                              | <ul> <li> [ ] </li> </ul> |
-| ★★★ | [Prefix Number](https://www.hackerearth.com/practice/algorithms/string-algorithm/z-algorithm/practice-problems/algorithm/prefix-number-f5c76976/)                                         | <ul> <li> [ ] </li> </ul> |
-| ★★★ | [Last Forever](https://www.hackerearth.com/practice/algorithms/string-algorithm/manachars-algorithm/practice-problems/algorithm/last-forever/)                                            | <ul> <li> [ ] </li> </ul> |
-
-3. #### Problems on HackerRank
-| ☆   | Problem Link                                                                                             | Finished                  |
-|-----|----------------------------------------------------------------------------------------------------------|---------------------------|
-| ★☆☆ | [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) | <ul> <li> [ ] </li> </ul> |
-| ★☆☆ | [Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich/problem)                    | <ul> <li> [ ] </li> </ul> |
-| ★★☆ | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)             | <ul> <li> [ ] </li> </ul> |
-| ★★☆ | [Common Child](https://www.hackerrank.com/challenges/common-child/problem)                               | <ul> <li> [ ] </li> </ul> |
-| ★★★ | [Build a Palindrome](https://www.hackerrank.com/challenges/challenging-palindromes/problem)              | <ul> <li> [ ] </li> </ul> |
-
-4. ### Problems on Codeforces
-
-| ☆   | Problem Link                                                                                             | Finished                  |
-|-----|----------------------------------------------------------------------------------------------------------|---------------------------|
-| ★☆☆ | [Petya and Exam](https://codeforces.com/problemset/problem/832/B) | <ul> <li> [ ] </li> </ul> |
-| ★★☆ | [Password](https://codeforces.com/problemset/problem/126/B)              | <ul> <li> [ ] </li> </ul> |
-| ★★★ | [Prefixes and Suffixes](https://codeforces.com/problemset/problem/432/D)              | <ul> <li> [ ] </li> </ul> |
-
-5. ### Problems on Codechef
-- [ ] [Kira Loves Palindromes](https://www.codechef.com/APRIL19A/problems/KLPM/)
-
-***
-
-## Week 3
-- Solve the remaining problems from Week 1 and Week 2.
-- Take part in [CodeChef June Challenge](https://www.codechef.com/JUNE19).
 
 This list will be updated frequently.
-
-***
->>>>>>> d24aff8387e7aa1179b5649754bbb56032892d12
 
 ### Why use this list?
 
